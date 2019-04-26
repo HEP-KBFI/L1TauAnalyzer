@@ -27,7 +27,7 @@ git clone https://github.com/HEP-KBFI/l1trigger-phase2l1pftaus $CMSSW_BASE/src/L
 
 git clone https://github.com/HEP-KBFI/dataformats-phase2l1pftaus $CMSSW_BASE/src/DataFormats/TallinnL1PFTaus
 
-git clone https://github.com/sandeepbhowmik1/L1TauAnalyzer/L1PFTauAnalyzer
+git clone https://github.com/HEP-KBFI/L1TauAnalyzer/L1PFTauAnalyzer
 
 scram b -j 8
 
